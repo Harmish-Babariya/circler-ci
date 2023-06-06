@@ -1,0 +1,14 @@
+{
+  "name": "circle-ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Harmish Babariya <harmishbabariya@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
